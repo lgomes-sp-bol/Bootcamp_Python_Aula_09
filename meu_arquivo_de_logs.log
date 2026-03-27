@@ -1,0 +1,9 @@
+2026-03-27T04:36:51.231520-0300 INFO Chamando função 'soma' com args (3, 5) e kwargs {} utils.py
+2026-03-27T04:36:51.232001-0300 INFO Função 'soma' retornou 8 utils.py
+2026-03-27T04:36:51.232328-0300 INFO Função 'soma' executada em 0.0008 segundos utils.py
+2026-03-27T04:36:51.232582-0300 INFO Chamando função 'soma' com args (3, 8) e kwargs {} utils.py
+2026-03-27T04:36:51.232929-0300 INFO Função 'soma' retornou 11 utils.py
+2026-03-27T04:36:51.233287-0300 INFO Função 'soma' executada em 0.0007 segundos utils.py
+2026-03-27T04:36:51.233714-0300 INFO Chamando função 'soma' com args (5, 9) e kwargs {} utils.py
+2026-03-27T04:36:51.234073-0300 INFO Função 'soma' retornou 14 utils.py
+2026-03-27T04:36:51.234765-0300 INFO Função 'soma' executada em 0.0010 segundos utils.py
